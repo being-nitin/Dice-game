@@ -1,0 +1,16 @@
+.img1{
+    height: 256px;
+    width: 256px;
+}
+body{
+    background-color: gray;
+}
+.heading{
+    text-align: center;
+}
+
+h1{
+    font-style: italic;
+    font-weight: 400;
+}
+
